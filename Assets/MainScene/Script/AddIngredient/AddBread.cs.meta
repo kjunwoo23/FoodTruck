@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 0cf5f66c38e99c84e9eeccc90458b8cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HoneyOatTop: {fileID: 8579459617579165528, guid: 13f41afed9e11f2439b0c3224ce51171,
+      type: 3}
+  - HoneyOatBottom: {fileID: 317257533209890553, guid: 61d94a23226937f4d8126be71bf46f7c,
+      type: 3}
+  - HoneyOatMiddle: {instanceID: 0}
+  - OreganoTop: {instanceID: 0}
+  - OreganoBottom: {instanceID: 0}
+  - OreganoMiddle: {instanceID: 0}
+  - WhiteTop: {instanceID: 0}
+  - WhiteBottom: {instanceID: 0}
+  - WhiteMiddle: {instanceID: 0}
+  - FlatTop: {fileID: 8934842320196641534, guid: e100e59dee7c51e46852306758575b4f,
+      type: 3}
+  - FlatBottom: {instanceID: 0}
+  - FlatMiddle: {instanceID: 0}
+  - WitTop: {instanceID: 0}
+  - WitBottom: {instanceID: 0}
+  - WitMiddle: {instanceID: 0}
+  - SesameTop: {instanceID: 0}
+  - SesameBottom: {instanceID: 0}
+  - SesameMiddle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
